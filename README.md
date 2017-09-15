@@ -44,7 +44,7 @@ _rice_ can be customized by executing the `options` function in `.Rprofile` file
 ```r
 options(
     rice.color_scheme = "native",
-    rice.editing_mode = "emacs"
+    rice.editing_mode = "emacs",
     rice.auto_indentation = TRUE,
     rice.prompt = "r$> "
 )
